@@ -5,17 +5,17 @@ import FriendsListItem from "./FriendsListItem";
 const DUMMY_FRIENDS = [
   {
     id: 1,
-    username: "Mark",
+    username: "Anuj",
     isOnline: true,
   },
   {
     id: 2,
-    username: "Anna",
+    username: "Aditi",
     isOnline: false,
   },
   {
     id: 3,
-    username: "John",
+    username: "Prashant",
     isOnline: false,
   },
 ];

@@ -6,14 +6,14 @@ const DUMMY_INVITATIONS = [
   {
     _id: "1",
     senderId: {
-      username: "Mark",
+      username: "Ravi",
       mail: "dummy@ad.com",
     },
   },
   {
     _id: "2",
     senderId: {
-      username: "John",
+      username: "Aasmeen",
       mail: "John@ad.com",
     },
   },
