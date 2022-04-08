@@ -8,6 +8,7 @@ import LoginPage from "./authPages/LoginPage/LoginPage";
 import RegisterPage from "./authPages/RegisterPage/RegisterPage";
 import Dashboard from "./Dashboard/Dashboard";
 import NotFound from "./Not-Found/Not-Found";
+import AlertNotification from "./shared/components/AlertNotification";
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
             <Route path={'*'} element={<NotFound />}/>
         </Routes>
     </Router>
+        <AlertNotification />
     </>
   );
 }
