@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b14d0ae8-0f16-480d-b147-9fc5096026d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/store/actions/alertActions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/reducers/alertReducer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dashboard/Dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dashboard/Dashboard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/utils/validators.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/utils/validators.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/store/actions/authActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/actions/authActions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/store.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1649412925010</updated>
       <workItem from="1649412930103" duration="6696000" />
-      <workItem from="1649425978071" duration="2683000" />
+      <workItem from="1649425978071" duration="4227000" />
     </task>
     <servers />
   </component>
