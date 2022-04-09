@@ -22,7 +22,7 @@ const setUserDetails = (userDetails) => {
 };
 
 
-export const login = (userDetails, navigate) => {
+ const login = (userDetails, navigate) => {
     return async (dispatch) => {
         const response = await api.login(userDetails);
 
@@ -39,7 +39,7 @@ export const login = (userDetails, navigate) => {
     }
 }
 
-export const register = (userDetails, navigate) => {
+ const register = (userDetails, navigate) => {
     return async (dispatch) => {
         const response = await api.register(userDetails);
 
